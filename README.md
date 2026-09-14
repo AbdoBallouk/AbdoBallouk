@@ -7,6 +7,8 @@ Damascus, Syria &nbsp;•&nbsp; Prof.AB@outlook.com
 
 ▶ **Live interactive demo:** [SpectroX RF Spectrum Analyzer](https://abdoballouk.github.io/spectrox/) — interactive brochure with a live spectrum/waterfall simulator.
 
+🏠 **Official homepage:** [abdoballouk.github.io](https://abdoballouk.github.io/) · 📄 [Academic publications](https://abdoballouk.github.io/publications.html)
+
 ---
 
 ## Professional Profile
@@ -72,6 +74,8 @@ Production systems I design and maintain. Core repositories are **private** to p
 | PlutoSDR Fix Tools | Firmware repair and flashing toolkit for recovering bricked ADALM-Pluto devices. |
 
 ## Peer-Reviewed Publications (7)
+
+Full list with years, venues and DOIs: [publications page](https://abdoballouk.github.io/publications.html) · [BibTeX export](https://abdoballouk.github.io/publications.html#)
 
 1. Novel Advanced Hybrid Jamming Techniques for GPS/GLONASS Receivers on UAVs Using a Locally Designed SDR Platform
 2. An Efficient Hybrid Spoofing/Spot-Jamming Strategy on Unmanned Aerial Vehicles
