@@ -5,6 +5,8 @@
 Damascus, Syria &nbsp;•&nbsp; Prof.AB@outlook.com &nbsp;•&nbsp; (+963) 969 904 999
 [LinkedIn](https://www.linkedin.com/in/abdo-ballouk) · Google Scholar: Abdo Ballouk · [ORCID](https://orcid.org/0000-0001-9276-4398) · [Portfolio](https://abdoballouk.github.io/ASTRYX/)
 
+▶ **Live interactive demo:** [SpectroX RF Spectrum Analyzer](https://abdoballouk.github.io/spectrox/) — interactive brochure with a live spectrum/waterfall simulator.
+
 ---
 
 ## Professional Profile
@@ -60,7 +62,7 @@ Production systems I design and maintain. Core repositories are **private** to p
 |---|---|
 | ASTRYX | Python-powered SDR spectrum analyzer (1 MHz–7.25 GHz) with HackRF/PlutoSDR backends, waterfall, demodulator, IQ recorder, signal library and web control. |
 | Document Scanner AB-200 | Desktop document scanner: capture, auto-enhance, document editor, encrypted archive with audit trail (Python/PyQt/OpenCV). |
-| SpectroX RF Analyzer | Professional spectrum analysis workstation for RF monitoring and channel assessment. |
+| SpectroX RF Analyzer | Professional spectrum analysis workstation for RF monitoring and channel assessment. [▶ Interactive demo](https://abdoballouk.github.io/spectrox/) |
 | Drone Detector RF | Passive two-band RF UAV detection system with radar-style UI and statistical confidence scoring (PlutoSDR). |
 | Gold Tracker App | Real-time gold price tracker for Android: live rates, alerts, dealers, portfolio, market recommendations (Flutter). |
 | Smart Doc Protection | Enterprise licensing and anti-tamper suite binding software to hardware, with background policy enforcement. |
