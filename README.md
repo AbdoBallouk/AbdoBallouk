@@ -97,6 +97,7 @@ Full list with years, venues and DOIs: [publications page](https://abdoballouk.g
 | Advanced Intensive Program — RF/SDR & AI Detection | Novasky Technologies, Changsha, China (on-site) | 2024 |
 | Telecommunications Systems Training | Syrian Telecom. Company | 2011 |
 | Small Business & Project Management | Shell Life Wire Program | 2010 |
+| Information Security | Cisco | 2025 |
 
 ## Research Interests
 
@@ -124,7 +125,7 @@ Communication Systems · Digital Communications · Wireless Communications · RF
 
 ## السيرة الذاتية المختصرة بالعربية
 
-**د. عبدو بلوك** — دكتوراه في الاتصالات المتقدمة، دمشق، سوريا.
+**د. عبده بللوق** — دكتوراه في الاتصالات المتقدمة، دمشق، سوريا.
 
 باحث وأكاديمي متخصص في **الراديو المعرّف بالبرمجيات (SDR)**، **الهندسة الراديوية**، **أنظمة الملاحة الفضائية
 (GNSS)**، **اتصالات الطائرات بدون طيار (UAV)**، **مراقبة الطيف** و**أمن الاتصالات**، مع أكثر من **15 عاماً**
