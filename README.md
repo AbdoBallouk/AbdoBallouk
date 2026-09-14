@@ -2,7 +2,7 @@
 
 **Ph.D. in Advanced Telecommunications** · RF / SDR Researcher · University Educator · Software Developer
 
-Damascus, Syria &nbsp;•&nbsp; Prof.AB@outlook.com &nbsp;•&nbsp; (+963) 969 904 999
+Damascus, Syria &nbsp;•&nbsp; Prof.AB@outlook.com
 [LinkedIn](https://www.linkedin.com/in/abdo-ballouk) · Google Scholar: Abdo Ballouk · [ORCID](https://orcid.org/0000-0001-9276-4398) · [Portfolio](https://abdoballouk.github.io/ASTRYX/)
 
 ▶ **Live interactive demo:** [SpectroX RF Spectrum Analyzer](https://abdoballouk.github.io/spectrox/) — interactive brochure with a live spectrum/waterfall simulator.
@@ -141,7 +141,7 @@ Communication Systems · Digital Communications · Wireless Communications · RF
 
 ## Contact
 
-Prof.AB@outlook.com · (+963) 969 904 999 · Damascus, Syria
+Prof.AB@outlook.com · Damascus, Syria
 [LinkedIn](https://www.linkedin.com/in/abdo-ballouk) · Google Scholar: Abdo Ballouk · [ORCID](https://orcid.org/0000-0001-9276-4398) · [Portfolio](https://abdoballouk.github.io/ASTRYX/)
 
 _Open to academic collaborations, R&D partnerships and challenging engineering research._
