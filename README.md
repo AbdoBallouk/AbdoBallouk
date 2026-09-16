@@ -41,7 +41,7 @@ Author of **7 peer-reviewed publications** and developer of **10+ deployed opera
 
 ## Experience
 
-**Senior Telecommunications Research Engineer** — Higher Institute for Applied Sciences & Technology (HIAST) · 2011–Present
+**Senior Telecommunications Research Engineer** — Research & Scientific Studies Center · 2011–Present
 - Full-lifecycle R&D in RF engineering, SDR, wireless communications and satellite navigation (concept → design → validation → deployment)
 - Designed complete telecom solutions: RF hardware, microwave circuits, embedded systems, antenna systems, signal-processing platforms
 - Developed **ASTRYX** — a Python-powered SDR Spectrum Analyzer (1 MHz–7.25 GHz); spectrum analysis, GNSS performance studies, UAV channel assessments
